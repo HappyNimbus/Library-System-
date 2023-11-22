@@ -1,3 +1,3 @@
 # Library-System-
 
-Standard MERN stack application featuring CRUD functionality, simple yet UI, and enhanced UX using notistack.
+Standard MERN stack application featuring CRUD functionality, simple UI, and enhanced UX using notistack.
